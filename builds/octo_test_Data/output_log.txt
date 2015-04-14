@@ -6,19 +6,19 @@ Direct3D:
     Vendor:   Intel
     VRAM:     896 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Monica\Documents\Unity\cs521\Project\octo_test_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Monica\Documents\Unity\cs521\Project\octo_test_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Monica\Documents\Unity\cs521\Project\octo_test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Monica\Documents\Unity\cs521\Project\octo_test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Monica\Documents\Unity\cs521\Project\octo_test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Monica\Documents\Unity\cs521\Project\octo_test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.371 seconds
-desktop: 1920x1080 60Hz; virtual: 4000x1280 at 0,0
+Platform assembly: C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\octo_test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\octo_test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\octo_test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\octo_test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\octo_test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\octo_test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  1.495 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\Monica\Documents\Unity\cs521\Project\octo_test_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Monica\Documents\Unity\cs521\Project\octo_test_Data\Managed\System.dll (this message is harmless)
-Generated drift: -1, -1
+Platform assembly: C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\octo_test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\octo_test_Data\Managed\System.dll (this message is harmless)
+Generated drift: 1, 1
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
 
@@ -30,7 +30,15 @@ Generated drift: 1, 1
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
 
-Generated drift: 1, -1
+Generated drift: -1, -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Generated drift: -1, -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Generated drift: -1, -1
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
 

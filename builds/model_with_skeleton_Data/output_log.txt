@@ -6,14 +6,14 @@ Direct3D:
     Vendor:   Intel
     VRAM:     896 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Monica\Documents\Unity\cs521\Project\model_with_skeleton_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Monica\Documents\Unity\cs521\Project\model_with_skeleton_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Monica\Documents\Unity\cs521\Project\model_with_skeleton_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Monica\Documents\Unity\cs521\Project\model_with_skeleton_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Monica\Documents\Unity\cs521\Project\model_with_skeleton_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Monica\Documents\Unity\cs521\Project\model_with_skeleton_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.106 seconds
+Platform assembly: C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\model_with_skeleton_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\model_with_skeleton_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\model_with_skeleton_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\model_with_skeleton_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\model_with_skeleton_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\model_with_skeleton_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.273 seconds
 desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\Monica\Documents\Unity\cs521\Project\model_with_skeleton_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Monica\Documents\GitHub\octopusXfractal\builds\model_with_skeleton_Data\Managed\System.Core.dll (this message is harmless)
